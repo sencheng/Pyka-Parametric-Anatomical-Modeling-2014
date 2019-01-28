@@ -85,3 +85,9 @@ License
 
 Source code and documentation copyright (c) 2013-2015 Martin Pyka, Sebastian Klatt  
 pam is licensed under the GNU GPL v2 License (GPLv2). See license file for full text.
+
+Publications
+------------
+Pyka, M., Klatt, S., Cheng, S. (2014): Parametric Anatomical Modeling: a method for modeling the anatomical layout of neurons and their projections. Frontiers in Neuroanatomy, 8, 91. http://doi.org/10.3389/fnana.2014.00091
+
+
